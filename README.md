@@ -4,6 +4,7 @@
 [![repo size](https://img.shields.io/github/repo-size/PraneshASP/node-authentication-jwt-mongodb)](https://github.com/PraneshASP/node-authentication-jwt-mongodb)
 [![node version](https://img.shields.io/node/v/npm)](https://github.com/PraneshASP/node-authentication-jwt-mongodb)
 [![npm version](https://img.shields.io/npm/v/npm)](https://github.com/PraneshASP/node-authentication-jwt-mongodb)
+[![Product Name Screen Shot](https://miro.medium.com/max/1920/1*bbN8C4TjOpsuZhMiI_aGow.jpeg)](https://pranesh-a-s.medium.com/how-to-build-simple-and-secure-rest-api-for-user-authentication-using-node-js-jwt-and-mongodb-2bdeb3e5427e)
 
 <!-- PROJECT LOGO -->
 <br />
@@ -21,8 +22,6 @@
 </p>
 
 <!-- ABOUT THE PROJECT -->
-
-[![Product Name Screen Shot](https://miro.medium.com/max/1920/1*bbN8C4TjOpsuZhMiI_aGow.jpeg)](https://pranesh-a-s.medium.com/how-to-build-simple-and-secure-rest-api-for-user-authentication-using-node-js-jwt-and-mongodb-2bdeb3e5427e)
 
 ### What is inside the repo ?
 
