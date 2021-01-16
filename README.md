@@ -22,8 +22,6 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
-
 [![Product Name Screen Shot](https://miro.medium.com/max/1920/1*bbN8C4TjOpsuZhMiI_aGow.jpeg)](https://pranesh-a-s.medium.com/how-to-build-simple-and-secure-rest-api-for-user-authentication-using-node-js-jwt-and-mongodb-2bdeb3e5427e)
 
 ### What is inside the repo ?
