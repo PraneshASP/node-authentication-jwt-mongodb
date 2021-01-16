@@ -3,12 +3,11 @@ const nodemailer = require("nodemailer");
 
 async function sendEmail(email, code) {
   try {
-    return { error: false };
     const smtpEndpoint = "smtp.sendgrid.net";
 
     const port = 465;
 
-    const senderAddress = "Edge196 <edgex@codezeros.com>";
+    const senderAddress = "NAME <ADDRESS>";
 
     var toAddress = email;
 
