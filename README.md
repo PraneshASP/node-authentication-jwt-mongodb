@@ -11,9 +11,9 @@
 <p align="center">
   <h3 align="center">Simple and secure REST API for User Authentication!</h3>
   <p align="center">
-     <a href="https://pranesh-a-s.medium.com/how-to-build-simple-and-secure-rest-api-for-user-authentication-using-node-js-jwt-and-mongodb-2bdeb3e5427e"><strong>Explore the post »</strong></a>
     <br />
-    
+    <a href="https://pranesh-a-s.medium.com/how-to-build-simple-and-secure-rest-api-for-user-authentication-using-node-js-jwt-and-mongodb-2bdeb3e5427e"><strong>Explore the post »</strong></a>
+     <br />
     <a href="https://github.com/PraneshASP/node-authentication-jwt-mongodb/issues">Report Bug </a>
     ·
     <a href="https://github.com/PraneshASP/node-authentication-jwt-mongodb/issues"> Request Feature</a>
