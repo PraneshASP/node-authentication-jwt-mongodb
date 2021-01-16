@@ -67,7 +67,7 @@ To run this project, you'll need to have the following installed:
 
 ### Installation
 
-1. Register at [https://sendgrid.com] SendGrid and create an API KEY.
+1. Register at [SendGrid](https://sendgrid.com) SendGrid and create an API KEY.
 
 2. Clone the repo :
    ```sh
@@ -81,9 +81,9 @@ To run this project, you'll need to have the following installed:
 
 4. Create `.env` file and configure :
    ```JS
-   MONGO_URI = <MONGODB URL>
-   JWT_SECRET = <SOME LONG SECURE SECRET>
-   SG_APIKEY = <SENDGRID API KEY>  //For sending emails
+   MONGO_URI = <MONGODB_URL>
+   JWT_SECRET = <SOME_LONG_SECURE_SECRET>
+   SG_APIKEY = <SENDGRID_API_KEY>  //For sending emails
    ```
 5. Start the server :
    ```sh
