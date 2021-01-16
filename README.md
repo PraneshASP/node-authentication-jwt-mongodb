@@ -8,9 +8,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-
   <h3 align="center">Simple and secure REST API for User Authentication!</h3>
-
   <p align="center">
     <br />
     <a href="https://pranesh-a-s.medium.com/how-to-build-simple-and-secure-rest-api-for-user-authentication-using-node-js-jwt-and-mongodb-2bdeb3e5427e"><strong>Explore the post »</strong></a>
@@ -21,28 +19,6 @@
     <a href="https://github.com/PraneshASP/node-authentication-jwt-mongodb/issues"> Request Feature</a>
   </p>
 </p>
-
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-     <li><a href="#license">License</a></li>
-    </ol>
-</details>
 
 <!-- ABOUT THE PROJECT -->
 
