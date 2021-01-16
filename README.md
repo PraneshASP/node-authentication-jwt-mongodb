@@ -24,7 +24,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-### What is inside the repo ?
+### What's inside this repo?
 
 1. User signup/registration with Email verification.
 2. User Login.
