@@ -33,7 +33,7 @@ For a more detailed explanation of the code, you can refer to my medium post ass
 
 - [Part I](https://pranesh-a-s.medium.com/how-to-build-simple-and-secure-rest-api-for-user-authentication-using-node-js-jwt-and-mongodb-2bdeb3e5427e) - Build User signup with email verification, forgot password and reset password.
 
-- [Part II](https://pranesh-a-s.medium.com/how-to-build-simple-and-secure-rest-api-for-user-authentication-using-node-js-jwt-and-mongodb-2bdeb3e5427e) - Integrate JWT and Build a Simple Referral System.
+- [Part II](https://pranesh-a-s.medium.com/jwt-integration-with-an-example-referral-system-using-nodejs-mongodb-and-expressjs-17be91b35f1c) - Integrate JWT and Build a Simple Referral System.
 
 ### Built With
 
