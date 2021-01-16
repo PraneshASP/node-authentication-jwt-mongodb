@@ -314,7 +314,7 @@ exports.ResetPassword = async (req, res) => {
 
 exports.ReferredAccounts = async (req, res) => {
   try {
-    const { referralCode } = req.decoded;
+    const { id, referralCode } = req.decoded;
 
     const referredAccounts = await User.find(
       { referrer: referralCode },
@@ -326,7 +326,7 @@ exports.ReferredAccounts = async (req, res) => {
       total: referredAccounts.length,
     });
   } catch (error) {
-    console.error("fetch-referred-error", error);
+    console.error("fetch-referred-error.", error);
     return res.stat(500).json({
       error: true,
       message: error.message,
