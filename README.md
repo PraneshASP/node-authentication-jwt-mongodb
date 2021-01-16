@@ -1,3 +1,5 @@
+[![Product Name Screen Shot](https://miro.medium.com/max/1920/1*bbN8C4TjOpsuZhMiI_aGow.jpeg)](https://pranesh-a-s.medium.com/how-to-build-simple-and-secure-rest-api-for-user-authentication-using-node-js-jwt-and-mongodb-2bdeb3e5427e)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![language](https://img.shields.io/github/languages/top/PraneshASP/node-authentication-jwt-mongodb)]("https://github.com/praneshasp/node-authentication-jwt-mongodb")
 [![vulnerability](https://img.shields.io/snyk/vulnerabilities/github/PraneshASP/node-authentication-jwt-mongodb)](https://github.com/PraneshASP/node-authentication-jwt-mongodb)
@@ -5,17 +7,13 @@
 [![node version](https://img.shields.io/node/v/npm)](https://github.com/PraneshASP/node-authentication-jwt-mongodb)
 [![npm version](https://img.shields.io/npm/v/npm)](https://github.com/PraneshASP/node-authentication-jwt-mongodb)
 
-[![Product Name Screen Shot](https://miro.medium.com/max/1920/1*bbN8C4TjOpsuZhMiI_aGow.jpeg)](https://pranesh-a-s.medium.com/how-to-build-simple-and-secure-rest-api-for-user-authentication-using-node-js-jwt-and-mongodb-2bdeb3e5427e)
-
 <!-- PROJECT LOGO -->
-<br />
 <p align="center">
   <h3 align="center">Simple and secure REST API for User Authentication!</h3>
   <p align="center">
+     <a href="https://pranesh-a-s.medium.com/how-to-build-simple-and-secure-rest-api-for-user-authentication-using-node-js-jwt-and-mongodb-2bdeb3e5427e"><strong>Explore the post »</strong></a>
     <br />
-    <a href="https://pranesh-a-s.medium.com/how-to-build-simple-and-secure-rest-api-for-user-authentication-using-node-js-jwt-and-mongodb-2bdeb3e5427e"><strong>Explore the post »</strong></a>
-    <br />
-    <br />
+    
     <a href="https://github.com/PraneshASP/node-authentication-jwt-mongodb/issues">Report Bug </a>
     ·
     <a href="https://github.com/PraneshASP/node-authentication-jwt-mongodb/issues"> Request Feature</a>
