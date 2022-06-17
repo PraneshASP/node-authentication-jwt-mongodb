@@ -327,7 +327,7 @@ exports.ReferredAccounts = async (req, res) => {
     });
   } catch (error) {
     console.error("fetch-referred-error.", error);
-    return res.stat(500).json({
+    return res.status(500).json({
       error: true,
       message: error.message,
     });
